@@ -1,0 +1,13 @@
+﻿  server.cpp
+C:\cppPrac\serverNew\server.cpp(33,19): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\cppPrac\serverNew\server.cpp(59,11): warning C4244: 'initializing': conversion from 'unsigned long' to 'char', possible loss of data
+C:\cppPrac\serverNew\server.cpp(72,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\cppPrac\serverNew\server.cpp(89,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\cppPrac\serverNew\server.cpp(102,12): warning C4129: '.': unrecognized character escape sequence
+C:\cppPrac\serverNew\server.cpp(106,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  serverNew.cpp
+C:\cppPrac\serverNew\serverNew.cpp(46,13): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\cppPrac\serverNew\serverNew.cpp(51,22): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\cppPrac\serverNew\serverNew.cpp(106,12): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+  Generating Code...
+  serverNew.vcxproj -> C:\cppPrac\serverNew\x64\Debug\serverNew.exe
